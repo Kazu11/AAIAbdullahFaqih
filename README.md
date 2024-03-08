@@ -1,2 +1,2 @@
 # AAIAbdullahFaqih
- The cumulative .ipnyb file 
+ The cumulative .ipynb file 
